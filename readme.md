@@ -1,0 +1,1 @@
+A simple program to reverse the typed word with the use of loops
