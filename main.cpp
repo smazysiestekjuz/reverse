@@ -8,7 +8,7 @@ int main()
     cout<<"Podaj wyraz do odwrocenia:";
     cin>>wyraz;
 
-    int dlugosc = wyraz,length();
+    int dlugosc = wyraz.length();
 
     for (int i=dlugosc-1; i>=0; i--)
     {
