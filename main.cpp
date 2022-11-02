@@ -8,5 +8,7 @@ int main()
     cout<<"Podaj wyraz do odwrocenia:";
     cin>>wyraz;
 
+    int dlugosc = wyraz,length();
+
     return 0;
 }
